@@ -1,6 +1,14 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
-
+section
+{
+    text-align: center;
+    background-image: url(/FabLab.jpg);
+    height: 800px ;
+    background-size: cover;
+    background-repeat:no-repeat;
+    color: white;
+}
 /*
 
  * This is a manifest file that'll be compiled into application.css, which will include all the files
