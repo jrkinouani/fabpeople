@@ -4,10 +4,24 @@ section
 {
     text-align: center;
     background-image: url(/FabLab.jpg);
-    height: 800px ;
+    height: 850px ;
     background-size: cover;
     background-repeat:no-repeat;
     color: white;
+
+}
+.navbar-default .navbar-brand, .navbar-default .navbar-brand:focus {
+    color: red;
+    font-size: 3em;
+    font-weight:  bold;
+    src: url("assets/Classic Robot Condensed Italic.otf") format("truetype");
+}
+.navbar-default
+{
+    padding-top: 15px;
+    background-color: transparent;
+    border-color: transparent;
+    height: 80px;
 }
 /*
 
