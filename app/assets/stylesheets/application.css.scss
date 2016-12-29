@@ -14,7 +14,7 @@ section
     color: red;
     font-size: 3em;
     font-weight:  bold;
-    src: url("assets/Classic Robot Condensed Italic.otf") format("truetype");
+
 }
 .navbar-default
 {
@@ -22,6 +22,25 @@ section
     background-color: transparent;
     border-color: transparent;
     height: 80px;
+}
+#form
+{
+  margin-top: 200px;
+}
+.form-control
+{
+    margin-bottom: 15px;
+    height: 50px;
+}
+.form-control.text
+{
+
+    height: 80px;
+}
+.row
+{
+  margin-left: 15px;
+  margin-right: 15px;
 }
 /*
 
